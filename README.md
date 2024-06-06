@@ -7,4 +7,4 @@ Cargo package must be installed on the machine in order to run the project*
 cargo run
 ```
 
-An inbuild instrunction set will appear in order to guide further with the project.
+An inbuilt instrunction set will appear in order to guide further with the project.
